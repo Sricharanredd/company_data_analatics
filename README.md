@@ -40,7 +40,7 @@ This project is a comprehensive **company data analysis dashboard** created usin
 ## 📁 File
 
 - `Company Data Analysis.pbix` – the Power BI report file.  
-  👉 You can download and open it using [Power BI Desktop]("C:\Users\jaish\OneDrive\Documents\Company Data Analysis.pbix").
+  👉 You can download and open it using [Power BI Desktop] ![.pbix](./Company Data Analysis.pbix)
 
 ---
 
