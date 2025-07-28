@@ -46,7 +46,20 @@ This project is a comprehensive **company data analysis dashboard** created usin
 
 ## 📸 Preview
 
-> *(Insert screenshots of your dashboard here if possible, or a GIF of interactions)*
+> ### 👥 Customer View
+![Customer](./assets/Customer.png)
+
+### 🧑‍💼 Executive Dashboard
+![Executive](./assets/Exec.png)
+
+### 🎛️ Filter Panel
+![Filter Toggle](./assets/Filter_toggle.png)
+
+### 🗺️ Regional Map
+![Map](./assets/Map.png)
+
+### 📦 Product Overview
+![Product](./assets/Product.png)
 
 ---
 
